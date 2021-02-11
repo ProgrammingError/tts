@@ -1,0 +1,7 @@
+python-dotenv
+gTTS
+Telethon
+pathlib
+logging
+subprocess.run
+asyncio
