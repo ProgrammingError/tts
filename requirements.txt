@@ -2,5 +2,4 @@ python-dotenv
 gTTS
 Telethon
 pathlib
-logging
 asyncio
